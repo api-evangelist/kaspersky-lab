@@ -1,0 +1,61 @@
+{
+    "name": "Kaspersky Lab",
+    "description": "Kaspersky Lab is a multinational cybersecurity and anti-virus provider headquartered in Moscow, Russia and operated by a holding company in the United Kingdom.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/20007-kaspersky-labs.jpg",
+    "tags": [
+        "api service provider",
+        "cybersecurity",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/kaspersky-lab\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Kaspersky Labs",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/20007-kaspersky-labs.jpg",
+            "humanURL": "http:\/\/sky.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/kaspersky-labs-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/kaspersky-labs-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "https:\/\/usblog.kaspersky.com\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "https:\/\/usblog.kaspersky.com\/feed\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/kaspersky-lab"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/kaspersky"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/sky.com"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/usa.kaspersky.com\/"
+        }
+    ]
+}
